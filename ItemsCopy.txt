@@ -1,0 +1,4 @@
+1;Chips;30
+2;Choco;15
+3;Candy;50
+4;Pizza;60
